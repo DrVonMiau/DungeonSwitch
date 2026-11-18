@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: DungeonSwitch
+## Notes: Turns off chosen addons in dungeons and raids with one click, then reloads the UI. Settings: /ds config or right-click the minimap button.
+## Version: 1.1.0
+## Author: DrVonMiau
+## X-License: MIT
+## Category: User Interface
+## IconTexture: Interface\Icons\INV_Misc_Key_03
+## SavedVariables: DungeonSwitchDB
+## SavedVariablesPerCharacter: DungeonSwitchCharDB
+
+DungeonSwitch.lua
