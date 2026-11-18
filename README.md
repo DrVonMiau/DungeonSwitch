@@ -1,3 +1,5 @@
+<p align="center"><img src="media/logo.jpg" alt="DungeonSwitch" width="180"></p>
+
 # DungeonSwitch
 
 **Turn off the addons you don't need in dungeons and raids, with one click.**
